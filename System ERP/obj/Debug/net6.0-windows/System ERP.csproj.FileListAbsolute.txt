@@ -16,3 +16,22 @@ D:\4ct\System ERP\System ERP\obj\Debug\net6.0-windows\System ERP.pdb
 D:\4ct\System ERP\System ERP\obj\Debug\net6.0-windows\System ERP.genruntimeconfig.cache
 D:\4ct\System ERP\System ERP\obj\Debug\net6.0-windows\ref\System ERP.dll
 D:\4ct\System ERP\System ERP\obj\Debug\net6.0-windows\System_ERP.Form3.resources
+C:\Users\pc\Source\Repos\System-ERP\System ERP\bin\Debug\net6.0-windows\System ERP.exe
+C:\Users\pc\Source\Repos\System-ERP\System ERP\bin\Debug\net6.0-windows\System ERP.deps.json
+C:\Users\pc\Source\Repos\System-ERP\System ERP\bin\Debug\net6.0-windows\System ERP.runtimeconfig.json
+C:\Users\pc\Source\Repos\System-ERP\System ERP\bin\Debug\net6.0-windows\System ERP.dll
+C:\Users\pc\Source\Repos\System-ERP\System ERP\bin\Debug\net6.0-windows\System ERP.pdb
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.csproj.AssemblyReference.cache
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System_ERP.Form1.resources
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System_ERP.Form2.resources
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System_ERP.Form3.resources
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.csproj.GenerateResource.cache
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.dll
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\refint\System ERP.dll
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.pdb
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\System ERP.genruntimeconfig.cache
+C:\Users\pc\Source\Repos\System-ERP\System ERP\obj\Debug\net6.0-windows\ref\System ERP.dll

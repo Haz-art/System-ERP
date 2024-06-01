@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\4ct\\System ERP\\System ERP\\System ERP.csproj": {}
+    "C:\\Users\\pc\\Source\\Repos\\System-ERP\\System ERP\\System ERP.csproj": {}
   },
   "projects": {
-    "D:\\4ct\\System ERP\\System ERP\\System ERP.csproj": {
+    "C:\\Users\\pc\\Source\\Repos\\System-ERP\\System ERP\\System ERP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\4ct\\System ERP\\System ERP\\System ERP.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Source\\Repos\\System-ERP\\System ERP\\System ERP.csproj",
         "projectName": "System ERP",
-        "projectPath": "D:\\4ct\\System ERP\\System ERP\\System ERP.csproj",
-        "packagesPath": "C:\\Users\\uczen.DESKTOP-LQSNHH0\\.nuget\\packages\\",
-        "outputPath": "D:\\4ct\\System ERP\\System ERP\\obj\\",
+        "projectPath": "C:\\Users\\pc\\Source\\Repos\\System-ERP\\System ERP\\System ERP.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc\\Source\\Repos\\System-ERP\\System ERP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\uczen.DESKTOP-LQSNHH0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
